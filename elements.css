@@ -1,0 +1,24 @@
+/* 
+* Annie McTaggart
+* Due Date
+* Project Name and Description
+*/
+
+*/ The universal selector */
+
+*{
+
+}
+
+/* Body attributes here */
+
+body {font-family: "times new roman", serif;}
+header {background-color: #cc00cc;}
+main {background-color: aqua;}
+footer {background-color: darkorange;}
+#shawn{float: left;}
+img{width: 1500px; height: 1000px;}
+p{background-color: white;}
+a:link{color: orange; background-color: aquamarine;}
+a:visited{color: mediumpurple; background-color: lightgoldenrodyellow;}
+a:hover, a:focus{color:pink; background-color: darkgrey;}
